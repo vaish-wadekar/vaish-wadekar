@@ -52,10 +52,11 @@ A passionate MERN Stack Developer from India
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayank53&layout=compact&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nayank53&show_icons=true&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayank53&theme=github-dark&hide_border=true" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaish-wadekar&langs_count=5&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Most Used Languages" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaish-wadekar&theme=white-orange&hide_border=true&border_radius=10" alt="GitHub Streak" />
+
+</div>
+

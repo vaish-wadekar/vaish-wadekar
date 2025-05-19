@@ -2,9 +2,16 @@
 
 A passionate MERN Stack Developer from India
 
-(https://komarev.com/ghpvc/?username=vaish-wadekar&color=blue)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vaish-wadekar&label=Profile%20views&color=0e75b6&style=flat" alt="vaish-wadekar" />  
+</p>
 
-[![Follow](https://img.shields.io/github/followers/vaish-wadekar?label=Follow&style=social)](https://github.com/vaish-wadekar)
+<p align="left">
+  <a href="https://github.com/vaish-wadekar" target="_blank">
+    <img src="https://img.shields.io/github/followers/vaish-wadekar?label=Follow%20%40NAYANK53&style=social" alt="Follow @vaish-wadekar" />
+  </a>
+</p>
+
 
 - 👩‍💻 All of my projects are available at  
   🔗 [https://nvk-portfolio.netlify.app/](https://app.netlify.com/teams/vaish-wadekar/projects)
@@ -25,7 +32,7 @@ A passionate MERN Stack Developer from India
 </p>
 
 
-### 🛠️ Languages and Tools:
+
 
 ### Languages and Tools:
 

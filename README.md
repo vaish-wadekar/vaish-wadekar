@@ -17,9 +17,13 @@ A passionate MERN Stack Developer from India
 ---
 
 ### Connect with me:
-[![LinkedIn](www.linkedin.com/in/vaishnavi-wadekar-4172b5259) <!-- put your LinkedIn link --> 
 
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/vaishnavi-wadekar-4172b5259" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
+
 
 ### 🛠️ Languages and Tools:
 

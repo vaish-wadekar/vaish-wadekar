@@ -8,8 +8,9 @@ A passionate MERN Stack Developer from India
 
 <p align="left">
   <a href="https://github.com/vaish-wadekar" target="_blank">
-    <img src="https://img.shields.io/github/followers/vaish-wadekar?label=Follow%20%40NAYANK53&style=social" alt="Follow @vaish-wadekar" />
-  </a>
+  <img src="https://img.shields.io/github/followers/vaish-wadekar?label=Follow%20%40vaish-wadekar&style=social" alt="GitHub Follow @vaish-wadekar" />
+</a>
+
 </p>
 
 

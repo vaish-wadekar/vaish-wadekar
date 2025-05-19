@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nayan Kamble
+# Hi 👋, I'm Vaishnavi Wadekar
 
 A passionate MERN Stack Developer from India
 

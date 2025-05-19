@@ -1,57 +1,45 @@
-<h1 align="center">Hi 👋, I'm Nayan Kamble</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
+# Hi 👋, I'm Nayan Kamble
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nayank53&label=Profile%20views&color=0e75b6&style=flat" alt="nayank53" />
-</p>
+A passionate MERN Stack Developer from India
 
-<p align="center">
-  <a href="https://github.com/nayank53">
-    <img src="https://img.shields.io/github/followers/nayank53?label=Follow&style=social" />
-  </a>
-</p>
+(https://komarev.com/ghpvc/?username=vaish-wadekar&color=blue)
+
+[![Follow](https://img.shields.io/github/followers/vaish-wadekar?label=Follow&style=social)](https://github.com/vaish-wadekar)
 
 - 👩‍💻 All of my projects are available at  
-  [https://nvk-portfolio.netlify.app/](https://nvk-portfolio.netlify.app/)
+  🔗 [https://nvk-portfolio.netlify.app/](https://app.netlify.com/teams/vaish-wadekar/projects)
 
-- 📫 How to reach me **nayankamble712@gmail.com**
+- 📫 How to reach me  
+  📧 [wadekarvaishnavi36@gmail.com](mailto:wadekarvaishnavi36@gmail.com)
 
-- 🌱 I’m currently learning **Express JS, NodeJS, MongoDB**
+- 🌱 I’m currently learning **ReactJS, NodeJS, MongoDB**
 
 ---
 
 ### Connect with me:
-<p align="left">
-  <a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
+[![LinkedIn](www.linkedin.com/in/vaishnavi-wadekar-4172b5259) <!-- put your LinkedIn link --> 
 
 ---
 
-### Languages and Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40"/>
+### 🛠️ Languages and Tools:
+
+<p>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVclCLk-X3r8-Cb1XBVW1udoX1yMGC2Djag&s"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg4lksuyfjoIpDswnnSSWdS9Xwa-3BUjW0SDVUmH92TH2DDlGQvjUT-8wpFRKsIqLFMRs&usqp=CAU"/>
+  <img src="[https://img.shields.io/badge/Express.js-404D59?style=for-the-badge](https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png)"/>
+  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"/>
+  <img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZYtHv2OLXmthRPbkmENZRXuqBVDwlsrZ1A&s)"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZYtHv2OLXmthRPbkmENZRXuqBVDwlsrZ1A&s"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSoW3g9hjXIasgon-kpzz-lD9z4SsalyPbZA&s"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQGVV8fOc_D2_vxf1_MrxRuPeF3Y1EFAJrxg&s"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png" width="400px" alt="Coder illustration" />
-</p>
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayank53&layout=compact&theme=github_dark&langs_count=6" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nayank53&show_icons=true&theme=github_dark&hide_border=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayank53&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayank53&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nayank53&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayank53&theme=github-dark&hide_border=true" />
 </p>

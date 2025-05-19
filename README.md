@@ -50,8 +50,6 @@ A passionate MERN Stack Developer from India
 </p>
 
 
----
-
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaish-wadekar&langs_count=5&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Most Used Languages" />

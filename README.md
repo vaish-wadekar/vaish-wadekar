@@ -15,7 +15,7 @@ A passionate MERN Stack Developer from India
 
 
 - 👩‍💻 All of my projects are available at  
-  🔗 [https://nvk-portfolio.netlify.app/](https://app.netlify.com/teams/vaish-wadekar/projects)
+  🔗 [https://app.netlify.com/teams/vaish-wadekar/projects](https://app.netlify.com/teams/vaish-wadekar/projects)
 
 - 📫 How to reach me  
   📧 [wadekarvaishnavi36@gmail.com](mailto:wadekarvaishnavi36@gmail.com)

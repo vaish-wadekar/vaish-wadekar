@@ -3,7 +3,7 @@
 A passionate MERN Stack Developer from India
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vaish-wadekar&label=Profile%20views&color=0e75b6&style=flat" alt="vaish-wadekar" />  
+  <img src="https://komarev.com/ghpvc/?username=vaish-wadekar&label=Profile%20views&color=0e75b6&style=flat" alt="vaish-wadekar" />
 </p>
 
 <p align="left">

@@ -20,7 +20,7 @@ A passionate MERN Stack Developer from India
 - 📫 How to reach me  
   📧 [wadekarvaishnavi36@gmail.com](mailto:wadekarvaishnavi36@gmail.com)
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, MongoDB**
+- 🌱 I’m currently learning **TypeScript**
 
 ---
 
@@ -52,9 +52,9 @@ A passionate MERN Stack Developer from India
 
 <div align="left">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaish-wadekar&langs_count=5&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaish-wadekar&langs_count=5&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Most Used Languages"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaish-wadekar&theme=white-orange&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaish-wadekar&theme=white-orange&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
